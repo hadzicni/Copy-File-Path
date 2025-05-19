@@ -3,7 +3,7 @@
 A simple VS Code extension that copies the current file’s absolute path to the clipboard using **Unix-style forward slashes**. Ideal for shell scripting, Linux/macOS workflows, or cross-platform devs.
 
 ![VS Code](https://img.shields.io/badge/vscode-1.100+-blue?logo=visualstudiocode)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Apache--2.0-blue)
 
 ---
 
